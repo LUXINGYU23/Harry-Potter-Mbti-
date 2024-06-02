@@ -1,0 +1,354 @@
+{"label": "Petunia", "predict": "I,N,F,P"}
+{"label": "Harry", "predict": "I,N,F,J"}
+{"label": "V", "predict": "I,N,F,JE,N,T,PE,N"}
+{"label": "Dudley", "predict": "I,S,T,J"}
+{"label": "H", "predict": "H,N,F,P]E,S,T,JI"}
+{"label": "Tom", "predict": "E,S,T,JI,N,T,P"}
+{"label": "Doris", "predict": "I,S,F,J\nE,N,T,P"}
+{"label": "Strangers 1", "predict": "I,N,F,P"}
+{"label": "Strangers 2", "predict": "E,N,T,P"}
+{"label": "Diggle", "predict": "I,N,T,P"}
+{"label": "Quirrel", "predict": "I,N,F,J"}
+{"label": "Goblins", "predict": "I,N,F,J"}
+{"label": "Griph", "predict": "E,N,T,P"}
+{"label": "Madam Malkin", "predict": "I,N,F,J"}
+{"label": "stranger", "predict": "E,S,F,P"}
+{"label": "Olliv", "predict": "E,N,T,P\nE,N,T,P"}
+{"label": "Vernon  Petunia", "predict": "I,N,F,J,E,N,T,J,E,S"}
+{"label": "a plump woman", "predict": "E,S,T,J"}
+{"label": "G", "predict": "E,N,F,JI,N,T,P"}
+{"label": "Fred", "predict": "I,N,F,P"}
+{"label": "N", "predict": "I,N,F,P]E,N,T,J,P"}
+{"label": "George", "predict": "E,S,T,P\nE,N,T,P"}
+{"label": "Fred, George", "predict": "E,S,T,J"}
+{"label": "Ron", "predict": "E,S,F,JR,N,T,P"}
+{"label": "Perc", "predict": "E,S,T,JI,N,F,P"}
+{"label": "Harry, Ron", "predict": "E,N,T,J"}
+{"label": "H", "predict": "I,N,F,JE,N,F,J"}
+{"label": "Mal", "predict": "E,S,T,P"}
+{"label": "Trains", "predict": "E,S,T,J"}
+{"label": "Ghost 1", "predict": "E,S,F,J"}
+{"label": "Ghost 2", "predict": "I,S,F,J"}
+{"label": "hat", "predict": "E,N,T,P"}
+{"label": "Mc", "predict": "E,N,T,P\nE,N,F,J"}
+{"label": "Seamus", "predict": "I,N,F,J"}
+{"label": "D", "predict": "E,N,F,PI,N,T,JE,N"}
+{"label": "Sn", "predict": "E,N,T,J"}
+{"label": "Madam Hooch", "predict": "E,S,T,J"}
+{"label": "Crowd", "predict": "E,S,T,P"}
+{"label": "Patil", "predict": "E,S,F,P"}
+{"label": "Parkinson", "predict": "E,S,F,P"}
+{"label": "We", "predict": "I,N,T,J"}
+{"label": "Filch", "predict": "I,N,T,JE,N,T,JI,S"}
+{"label": "Peeves", "predict": "E,N,T,P"}
+{"label": "Fat lady", "predict": "I,N,F,J"}
+{"label": "Flitwick", "predict": "I,N,F,J"}
+{"label": "Wood", "predict": "E,N,T,JI,N,F,PI,S"}
+{"label": "Ron, Harry", "predict": "E,N,F,JE,N,F,P"}
+{"label": "Jordan", "predict": "E,N,T,JE,N,F,J"}
+{"label": "Gryffindor", "predict": "I,S,F,P\nE,N,T,JI"}
+{"label": "Dean", "predict": "I,N,F,P"}
+{"label": "Flint", "predict": "E,S,F,P"}
+{"label": "Madam Pince", "predict": "E,S,T,J"}
+{"label": "Harry and Ron", "predict": "E,S,T,J,E,N,T,P"}
+{"label": "Ronan", "predict": "I,N,T,P"}
+{"label": "Bane", "predict": "E,S,F,P"}
+{"label": "Firenze", "predict": "I,N,T,P"}
+{"label": "Harry and Hermione", "predict": "I,S,F,J,E,N,T,P"}
+{"label": "Quirell", "predict": "I,N,F,J\nI,N,F,JI"}
+{"label": "V", "predict": "E,S,T,JI,N,F,P"}
+{"label": "Madam Pomfrey", "predict": "I,N,F,J"}
+{"label": "D", "predict": "I,N,F,J"}
+{"label": "gnome", "predict": "E,S,T,J"}
+{"label": "Mrs", "predict": "E,N,F,JI,N,T,PE,N"}
+{"label": "Mr. Borgin", "predict": "I,N,T,J"}
+{"label": "Mr. Malfoy", "predict": "I,N,T,JE,N,T,JI,S"}
+{"label": "Draco", "predict": "I,N,T,J,E,S,N,F,JI"}
+{"label": "aged witch", "predict": "E,S,F,P\nE,N,T,JE"}
+{"label": "Guardian", "predict": "E,S,T,J"}
+{"label": "fat woman", "predict": "E,N,T,P"}
+{"label": "Lockhart", "predict": "E,N,T,J"}
+{"label": "Colin", "predict": "E,S,T,J"}
+{"label": "Alicia", "predict": "I,S,T,P"}
+{"label": "Nick", "predict": "I,N,F,J"}
+{"label": "Moaning Murtle", "predict": "I,N,F,P"}
+{"label": "Harry, Ron and Hermione", "predict": "I,N,F,P"}
+{"label": "Lee Jordan", "predict": "E,N,T,P"}
+{"label": "Alicia Spinnet", "predict": "E,N,F,J"}
+{"label": "Ernie", "predict": "E,N,F,J"}
+{"label": "Ron and Hermione", "predict": "E,S,T,J,E,N,T,PI,S"}
+{"label": "Goyle", "predict": "E,S,T,J"}
+{"label": "Crabbe", "predict": "I,S,T,J"}
+{"label": "Aragog", "predict": "I,S,F,J"}
+{"label": "spider", "predict": "E,N,T,P"}
+{"label": "Pomfrey", "predict": "I,N,T,J"}
+{"label": "reporter", "predict": "I,N,T,P"}
+{"label": "Marge", "predict": "I,S,T,J"}
+{"label": "Vernon,  Petunia", "predict": "I,S,F,JI,S,F,JI,S"}
+{"label": "Shunpike", "predict": "E,N,F,J"}
+{"label": "Stan", "predict": "E,S,T,J"}
+{"label": "wizard", "predict": "E,N,F,J"}
+{"label": "Ern", "predict": "E,S,F,P"}
+{"label": "F", "predict": "E,N,F,J"}
+{"label": "boy", "predict": "I,N,F,P"}
+{"label": "Owner", "predict": "E,S,T,P"}
+{"label": "manager", "predict": "I,N,F,J"}
+{"label": "Bookstore clerk", "predict": "I,N,F,P"}
+{"label": "Mirror", "predict": "E,S,F,J"}
+{"label": "Witch", "predict": "E,S,T,J"}
+{"label": "Professor Lupin", "predict": "I,N,F,J"}
+{"label": "Pansy Parkinson", "predict": "E,N,F,P\nE,N,T,PE"}
+{"label": "knight", "predict": "E,N,F,P"}
+{"label": "T", "predict": "E,N,F,J"}
+{"label": "Dean Tomas", "predict": "I,S,F,P\nE,S,T,J"}
+{"label": "Lavender", "predict": "I,N,F,P"}
+{"label": "Lavender and Parvati", "predict": "I,S,F,P\nI,S,T,JI"}
+{"label": "L", "predict": "E,S,F,P"}
+{"label": "all the classmates", "predict": "E,N,T,P"}
+{"label": "Parvati", "predict": "E,S,F,P"}
+{"label": "Fred and George", "predict": "E,S,T,J"}
+{"label": "Angelina", "predict": "I,S,F,J"}
+{"label": "Oliver", "predict": "E,N,T,P\nE,N,T,JE"}
+{"label": "Katie", "predict": "I,S,T,J"}
+{"label": "Cadogan", "predict": "E,N,T,J"}
+{"label": "dementor", "predict": "I,S,T,P"}
+{"label": "Strangers 3", "predict": "E,S,T,J"}
+{"label": "Black Pepper Imps", "predict": "E,S,T,P\nE,N,F,PE"}
+{"label": "Ice Mice", "predict": "E,S,T,J\nE,N,F,PI"}
+{"label": "peppermint", "predict": "I,S,F,J"}
+{"label": "Cho Chang", "predict": ",S,N,F,JI,N,F,PE,N"}
+{"label": "Gryffindor team member", "predict": "E,N,F,J"}
+{"label": "Hermione Harry", "predict": "I,S,T,J\nI,S,F,P\n"}
+{"label": "Sir", "predict": "I,N,T,JE,N,T,JI,N"}
+{"label": "Black", "predict": "I,N,F,J,SI,N,F,JI"}
+{"label": "Peter", "predict": "I,N,F,P"}
+{"label": "Harry, Hermione", "predict": "I,N,F,J"}
+{"label": "Charlie", "predict": "I,N,T,J"}
+{"label": "Cedric", "predict": "E,N,F,J"}
+{"label": "Amos", "predict": "E,N,T,J"}
+{"label": "Roberts", "predict": "I,S,T,J"}
+{"label": "Kevin", "predict": "E,S,T,P"}
+{"label": "Mrs. Finnigan", "predict": "E,N,T,P"}
+{"label": "Bag", "predict": "I,N,T,P"}
+{"label": "Crouch", "predict": "I,N,F,J"}
+{"label": "saleswizard", "predict": "E,S,T,J"}
+{"label": "Winky", "predict": "I,N,F,JI,N,T,JI,N"}
+{"label": "crowd", "predict": "E,N,F,J,E,S,N,F,PI"}
+{"label": "Dimitrov", "predict": "I,S,F,PI,N,F,PI,S"}
+{"label": "badge", "predict": "E,S,F,J,E,S,T,P"}
+{"label": "Bulgaria Minister", "predict": "E,S,F,J"}
+{"label": "Little girl", "predict": "I,S,F,P"}
+{"label": "Veela 1", "predict": "I,N,F,J,E,N,T,F,JI"}
+{"label": "Veela 2", "predict": "E,N,T,J"}
+{"label": "Wizards", "predict": "I,S,F,P,E,S,T,J,PI"}
+{"label": "Bill", "predict": "E,S,T,J"}
+{"label": "Sorting Hat", "predict": "E,N,F,P,E,N,T,PE,N"}
+{"label": "Dennis", "predict": "E,S,T,P"}
+{"label": "Mo", "predict": "E,N,T,JE,N,T,PI,S"}
+{"label": "Classmate 1", "predict": "E,S,T,J\nE,N,F,PI"}
+{"label": "Classmate 2", "predict": "E,S,T,J\nE,N,F,P"}
+{"label": "", "predict": "I,S,F,J,E,N,T,PI,S"}
+{"label": "Student 2", "predict": "E,S,T,JI,N,F,PI,N"}
+{"label": "Madame Maxime", "predict": "I,N,F,J"}
+{"label": "Girl 1", "predict": "I,N,T,J"}
+{"label": "Girl 2", "predict": "I,S,F,J"}
+{"label": "Dumbledore Dumbledore", "predict": "I,N,T,J"}
+{"label": "Karkaroff", "predict": "I,N,F,J"}
+{"label": "Fleur", "predict": "I,N,F,JI,N,F,JE,N"}
+{"label": "Krum", "predict": "I,N,T,P"}
+{"label": "Maxime", "predict": "E,S,F,J"}
+{"label": "Katie Bell", "predict": "I,N,F,J\nE,N,T,JE"}
+{"label": "Rita Skeeter", "predict": "E,N,T,J"}
+{"label": "Slytherin student 1", "predict": "I,S,F,P"}
+{"label": "Slytherin students 2", "predict": "E,S,T,J"}
+{"label": "Pansy", "predict": "I,N,F,P"}
+{"label": "Ludo", "predict": "I,S,T,J"}
+{"label": "Ron,Hermione", "predict": "E,N,T,J"}
+{"label": "armor", "predict": "I,N,F,J\nE,N,T,JI"}
+{"label": "Davis", "predict": "E,S,T,J"}
+{"label": "Padma", "predict": "I,S,F,J"}
+{"label": "Grubbly-Plank", "predict": "E,N,T,J"}
+{"label": "Murtle", "predict": "I,S,F,P"}
+{"label": "merpeople", "predict": "E,S,T,J\nE,N,T,JE"}
+{"label": "merman", "predict": "E,S,T,P"}
+{"label": "Harry,Ron,Hermione", "predict": "I,S,F,JE,S,T,F,PI"}
+{"label": "Elf", "predict": "E,S,F,P"}
+{"label": "Ron,fred", "predict": "E,S,T,P\nE,S,T,JI"}
+{"label": "Harry George", "predict": "E,S,T,P\nI,S,T,J"}
+{"label": "Hermione Fred", "predict": "E,N,T,J"}
+{"label": "Bertha", "predict": "E,N,T,P\nE,N,F,JE"}
+{"label": "Sphinx", "predict": "I,N,F,J"}
+{"label": "Wormtail", "predict": "I,N,F,P"}
+{"label": "Cedric's soul", "predict": "E,S,F,P"}
+{"label": "Old man", "predict": "E,S,T,J"}
+{"label": "Harry mother", "predict": "I,S,F,P\nI,S,T,PE"}
+{"label": "Harry father", "predict": "I,N,F,J"}
+{"label": "Mrs.Diggory", "predict": "I,N,F,P"}
+{"label": "newsreader", "predict": "I,S,F,J"}
+{"label": "Mrs. Figg", "predict": "I,N,F,J"}
+{"label": "Tonks", "predict": "I,N,F,P"}
+{"label": "Kingsley", "predict": "I,N,T,J"}
+{"label": "Mundungus", "predict": "E,N,T,P"}
+{"label": "Fred George", "predict": "E,N,T,J"}
+{"label": "Mrs. Black", "predict": "I,S,T,P"}
+{"label": "Kre", "predict": "I,S,F,JE,N,T,PE,N"}
+{"label": "Ron, Ginny", "predict": "I,N,F,JE,N,F,JE,N"}
+{"label": "Eric", "predict": "E,S,T,J"}
+{"label": "Bob", "predict": "E,N,F,P"}
+{"label": "Perkins", "predict": "E,N,T,J"}
+{"label": "Bode", "predict": "I,N,T,J"}
+{"label": "Bones", "predict": "E,S,T,J"}
+{"label": "Dolores", "predict": "I,S,T,J,E,N,T,P"}
+{"label": "Fred George Ginny", "predict": "E,S,T,P"}
+{"label": "old woman", "predict": "E,S,T,P\nE,N,T,JI"}
+{"label": "L", "predict": "E,N,F,P"}
+{"label": "Mrs. Purkiss", "predict": "E,N,F,J"}
+{"label": "Ministry insider", "predict": "E,N,F,P"}
+{"label": "Euan", "predict": "E,S,T,J,E,N,S,T,J,E"}
+{"label": "Ron  Neville", "predict": "I,S,T,J"}
+{"label": "Um", "predict": "I,N,T,JE,N,T,JI,S"}
+{"label": "classmates", "predict": "E,N,T,J"}
+{"label": "girl", "predict": "I,N,T,J,E,S,N,T,P"}
+{"label": "barman", "predict": "I,N,T,J"}
+{"label": "Michael", "predict": "E,N,T,J"}
+{"label": "Zacharias", "predict": "I,N,T,J"}
+{"label": "Susan", "predict": "I,S,T,P"}
+{"label": "Terry Boot", "predict": "I,N,F,J"}
+{"label": "second year student", "predict": "I,N,T,J,S,E,N,T,PI"}
+{"label": "Fourth-year girls", "predict": "I,N,T,J,E,N,F,J,S,N"}
+{"label": "Binns", "predict": "E,N,T,J"}
+{"label": "Stone gargoyles1", "predict": "I,S,F,J"}
+{"label": "Stone gargoyles2", "predict": "I,S,F,J"}
+{"label": "Harry, Ron, Hermione", "predict": "E,S,T,P\nE,S,T,PE"}
+{"label": "Terry", "predict": "E,N,T,P"}
+{"label": "Slytherin team", "predict": "E,S,F,J,E,N,T,F,P"}
+{"label": "Slytherin student", "predict": "E,S,F,J\nI,S,T,P"}
+{"label": "Malfoy, Crabbe, Goyle", "predict": "E,S,F,J\nE,S,T,JE"}
+{"label": "Dilys", "predict": "I,N,F,J,E,S,N,F,JI"}
+{"label": "young wizard", "predict": "E,N,F,J"}
+{"label": "Old wizard", "predict": "I,N,F,P"}
+{"label": "Phineas", "predict": "I,N,T,JE,N,F,P"}
+{"label": "Healer", "predict": "I,N,F,J"}
+{"label": "Mrs. Longbottom", "predict": "I,N,F,J"}
+{"label": "book", "predict": "E,S,F,P"}
+{"label": "Hospital spokesman", "predict": "I,S,F,J"}
+{"label": "A spokeswizard for the hospital", "predict": "I,N,F,J"}
+{"label": "Madam Puddifoot", "predict": "E,N,F,JE,S,T,JI,S"}
+{"label": "Rita", "predict": "I,N,T,J"}
+{"label": "Slytherin", "predict": "E,N,T,J\nE,N,F,PI"}
+{"label": "Rookwood", "predict": "E,N,F,J"}
+{"label": "Fortescue", "predict": "E,S,T,J"}
+{"label": "Dawlish", "predict": "I,S,T,J"}
+{"label": "Lily", "predict": "I,N,F,P"}
+{"label": "James", "predict": "E,S,T,P"}
+{"label": "Ron, Hermione", "predict": "E,N,T,PI,N,F,JI,S"}
+{"label": "student", "predict": "E,S,T,P\nI,N,F,JE"}
+{"label": "Magorian", "predict": "I,N,T,P"}
+{"label": "centaur", "predict": "I,N,F,J,E,S,N,F,JI"}
+{"label": "students", "predict": "E,S,T,J"}
+{"label": "Tofty", "predict": "I,N,F,J"}
+{"label": "Marchbanks", "predict": "I,N,T,J"}
+{"label": "Warrington", "predict": "I,S,F,P"}
+{"label": "centaur1", "predict": "I,N,F,P"}
+{"label": "centaur2", "predict": "E,S,T,J"}
+{"label": "centaur3", "predict": "E,N,T,P\nI,N,F,J"}
+{"label": "Grawp", "predict": "E,N,T,J,E,N,T,P"}
+{"label": "cool female", "predict": "E,S,T,J"}
+{"label": "Bellatrix", "predict": "I,S,T,J"}
+{"label": "bearded man", "predict": "E,N,T,J"}
+{"label": "Young woman", "predict": "E,S,T,J"}
+{"label": "Ron, Ginny, Luna, Hermione,  Neville", "predict": "E,N,T,J,E,S,N,F,PI"}
+{"label": "Death Eater 1", "predict": "E,N,F,J"}
+{"label": "Death Eater 2", "predict": "E,S,T,J"}
+{"label": "Dolohov", "predict": "E,S,T,P"}
+{"label": "Death Eater", "predict": "E,N,T,P"}
+{"label": "Macnair", "predict": "E,S,T,PI,N,T,PI,N"}
+{"label": "Williamson", "predict": "E,N,F,J"}
+{"label": "red-nosed wizard", "predict": "I,N,F,J"}
+{"label": "Armando Dippet", "predict": "I,S,F,P"}
+{"label": "Obliviator", "predict": "I,N,F,P"}
+{"label": "Scrim", "predict": "I,N,F,P"}
+{"label": "Mrs Longbottom", "predict": "E,S,T,P"}
+{"label": "Sl", "predict": "I,S,N,F,P\nE,N,F,J"}
+{"label": "Narcissa", "predict": "E,N,F,P"}
+{"label": "Romilda", "predict": "E,N,F,J"}
+{"label": "fourth-year girls", "predict": "I,N,T,J,E,N,T,P"}
+{"label": "third-year girl", "predict": "I,N,F,J,E,N,T,F,JI"}
+{"label": "Ron Hermion", "predict": "E,S,T,P"}
+{"label": "Sloper", "predict": "E,N,T,J"}
+{"label": "Michael Corner", "predict": "I,N,F,J"}
+{"label": "Morfin", "predict": "I,S,F,J"}
+{"label": "Ogden", "predict": "E,S,T,P"}
+{"label": "McLaggen", "predict": "I,N,T,J"}
+{"label": "Harry,Hermione", "predict": "I,S,F,JE,N,T,PI,S"}
+{"label": "Demelza", "predict": "E,S,T,J"}
+{"label": "Leanne", "predict": "I,N,T,J"}
+{"label": "scruffy girl", "predict": "E,S,T,J,E,N,S,T,PI"}
+{"label": "Mrs. Cole", "predict": "I,S,T,P"}
+{"label": "Sprout", "predict": "E,S,T,P"}
+{"label": "Peakes", "predict": "I,S,F,P,E,N,F,PI,S"}
+{"label": "Harper", "predict": "E,N,T,P\nE,S,F,PI"}
+{"label": "Worple", "predict": "E,N,F,P"}
+{"label": "Twycross", "predict": "I,N,F,J"}
+{"label": "Head", "predict": "I,N,F,J,S,N,T,PI,N"}
+{"label": "Moaning myrtle", "predict": "I,N,F,J"}
+{"label": "Harry,Hagrid", "predict": "E,N,T,P"}
+{"label": "Riddle", "predict": "I,N,F,J"}
+{"label": "Mrs Rosmerta", "predict": "I,S,F,J"}
+{"label": "Amycus", "predict": "I,N,T,J"}
+{"label": "Everard", "predict": "E,N,F,J\nI,S,T,JI"}
+{"label": "Skeeter", "predict": "I,N,T,J"}
+{"label": "Doge", "predict": "E,N,T,J"}
+{"label": "Dedalus", "predict": "I,N,T,J"}
+{"label": "Hestia", "predict": "E,S,T,P"}
+{"label": "Dedalus's pocket watch", "predict": "E,S,T,J,E,N,T,PI,S"}
+{"label": "Ted", "predict": "I,N,F,P"}
+{"label": "Mrs. Tonks", "predict": "E,S,T,J,E,N,T,PI,S"}
+{"label": "Fred,Weasley,Lupin", "predict": "E,N,T,PI,S,F,JE,N"}
+{"label": "Tonks,Fleur", "predict": "E,S,F,J"}
+{"label": "Lovegood", "predict": "I,N,F,P"}
+{"label": "Muriel", "predict": "E,S,F,JE,N,T,P"}
+{"label": "Lupin, Tonks", "predict": "E,S,F,JI,N,T,PI,S"}
+{"label": "Mad-Eye Moody’s voice", "predict": "I,N,T,J"}
+{"label": "Patronus", "predict": "I,S,T,P\nE,S,T,J"}
+{"label": "Moody's voice", "predict": "I,S,T,J"}
+{"label": "Bathilda", "predict": "E,S,T,J"}
+{"label": "Ron Hermione", "predict": "I,N,T,PE,S,T,JI,N"}
+{"label": "Stranger 1", "predict": "E,N,T,J"}
+{"label": "Stranger 2", "predict": "E,N,T,J\nE,N,F,JE"}
+{"label": "Yaxley", "predict": "I,N,T,J"}
+{"label": "disembodied female voice", "predict": "I,N,F,J"}
+{"label": "Thicknesse", "predict": "E,S,T,J"}
+{"label": "Wizard", "predict": "I,S,T,J\nI,N,F,P\n"}
+{"label": "Mrs Cattermole", "predict": "I,S,F,J"}
+{"label": "balding wizard", "predict": "I,S,T,J"}
+{"label": "Cattermole", "predict": "E,S,T,J,E,N,T,J,P\n"}
+{"label": "Gregorovitch", "predict": "I,S,F,P"}
+{"label": "Griphook，Gornuk", "predict": "I,S,T,J"}
+{"label": "Dirk", "predict": "I,N,T,P"}
+{"label": "Gornuk", "predict": "I,N,T,J"}
+{"label": "Snake", "predict": "E,S,F,P"}
+{"label": "Smeek", "predict": "I,N,F,P"}
+{"label": "Dillons", "predict": "I,S,T,J"}
+{"label": "Hermione, Harry", "predict": "I,S,T,P"}
+{"label": "Xenophili", "predict": "iousE,N,T,P"}
+{"label": "Selwyn", "predict": "I,N,T,J"}
+{"label": "Travers", "predict": "E,N,T,J"}
+{"label": "Hermione, Ron", "predict": "I,N,T,P\nI,N,F,PI"}
+{"label": "Greyback", "predict": "I,S,T,J"}
+{"label": "Scabior", "predict": "I,S,T,P"}
+{"label": "Lucius", "predict": "I,N,F,P"}
+{"label": "Hermione, Fleur", "predict": "I,N,F,J"}
+{"label": "goblin", "predict": "I,N,T,J"}
+{"label": "Bogrod", "predict": "I,S,T,J"}
+{"label": "Death Eater 3", "predict": "E,S,T,JI,N,T,J"}
+{"label": "Death Eater 4", "predict": "I,S,F,J"}
+{"label": "Death Eater 5", "predict": "E,N,T,J"}
+{"label": "Aber", "predict": "E,N,T,P\nI,N,F,P\n"}
+{"label": "eagle door knocker", "predict": "I,N,T,J"}
+{"label": "First grade freshman", "predict": "I,S,F,J"}
+{"label": "Gray", "predict": "I,N,T,J"}
+{"label": "stone gargoyles", "predict": "I,N,F,J"}
+{"label": "Sir Cadogan", "predict": "E,N,T,P\nI,S,F,JI"}
+{"label": "Ginny,Tonks", "predict": "I,N,F,J"}
+{"label": "Albus", "predict": "I,S,F,P"}
